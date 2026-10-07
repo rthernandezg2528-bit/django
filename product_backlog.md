@@ -21,3 +21,8 @@
 | HU-E3-02 | Como gerente, quiero acceder a todos los módulos con un solo login | E3 | Alta | 3 |
 
 ## Total de puntos en este extracto: 27
+
+
+## Notas de cierre W02
+- Suite acumulada: 24 tests OK (11 de W01 + 13 de W02).
+- Problemas resueltos: ubicación de settings_prod.py, vistas de clientes y proveedores migradas a render(), tests de W01 recuperados.
